@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
 	int Array[5] = {1, 2, 3, 4, 5};
 	int choise;
 	while(true){
-		cout << "Âûáåðèòå ôóíêöèþ: 0 - âûéòè |1 - âûâîä ìàññèâà | 2 - Âûáîð íîìåðà ýëåìåíòà ìàññèâà i ghangedïî èíäåêñó" << endl;
+		cout << "Âûáåðèòå ôóíêöèþ: 0 - âûéòè |1 - âûâîä ìàññèâà | 2 - Âûáîð íîìåðà ýëåìåíòà ìàññèâà i ghangedïî èíä775757åêñó" << endl;
 		cout << "Ââåäèòå ÷èñëî: ";
 		cin >> choise;
 		switch(choise){ 
