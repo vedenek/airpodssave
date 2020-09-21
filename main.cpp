@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 			break;
 		}
 		case 2:{
-			cout << "Ââåäèòå èíäåêñ ìàññèиииииâà: ";
+			cout << "Ââåäèòå èíäåêñ ìàññèиииииâà:fjbpfijhdpfsihjpfihjfpgohjirfpihjfp ";
 			int numberEL;
 			cin >> numberEL;
 			int numberValue;
