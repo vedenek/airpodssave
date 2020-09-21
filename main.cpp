@@ -6,7 +6,7 @@ using namespace std;
 int main(int argc, char** argv) {
 	
 	------
-	+++++++
+	+++++++6666
 	
 	cout<<"Hello world"<<endl;
 	system("pause");
