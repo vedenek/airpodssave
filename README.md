@@ -1,2 +1,2 @@
-# Para!
+# OMG
 Univesity
