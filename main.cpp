@@ -10,6 +10,7 @@ int main(int argc, char** argv) {
 	while(true){
 		cout << "Âûáåðèòå ôóíêöèþ: 0 - âûéòè |1 - âûâîä ìàññèâà | 2 - Âûáîð íîìåðà ýëåìåíòà �232131�àññèâà i ghangedïî èíä775757åêñó" << endl;
 		cout << "Ââåäèòå ÷èñëî: ";
+		cout << "dfgihjdoghofgjudogifogidfjuidfhgijufijugyuvgubuuguf8igfubi"<<
 		cin >> choise;
 		switch(choise){
 			case 0:{
